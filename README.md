@@ -1,4 +1,4 @@
-<img src="https://github.com/AgustinGancharov/TresEnLinea/blob/master/gif%20ejemplo.gif" width="40" height="40" />
+<img src="https://github.com/AgustinGancharov/TresEnLinea/blob/master/gif%20ejemplo.gif"/>
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
