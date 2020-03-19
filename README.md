@@ -11,3 +11,5 @@ https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Runs the app in the development mode
+
+![](gif ejemplo.gif)
